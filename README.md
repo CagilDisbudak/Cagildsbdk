@@ -20,6 +20,8 @@
 ## Contact me : 
 📫 [![Gmail Badge](https://img.shields.io/badge/-cdisbudak24@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:cdisbudak24@gmail.com)](asthiseta@gmail.com)
 
+ <a  href="[https://linkedin.com/in/example](https://www.linkedin.com/in/%C3%A7a%C4%9F%C4%B1l-di%C5%9Fbudak-75169a219/)" target="_blank">
+      <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
 
 <!--
 **AkuraDiary/AkuraDIary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
