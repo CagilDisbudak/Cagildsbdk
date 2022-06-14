@@ -18,7 +18,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 ## Contact me : 
-📫 [![Gmail Badge](https://img.shields.io/badge/-cdisbudak24@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:cdisbudak24@gmail.com)]
+📫 ![Gmail Badge](https://img.shields.io/badge/-cdisbudak24@gmail.com-blue?style=flat-roundedrectangle&logo=Gmail&logoColor=white&link=mailto:cdisbudak24@gmail.com)
 
  <a  href="https://linkedin.com/in/çağıl-dişbudak-75169a219/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
