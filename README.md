@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##🔭 I’m currently working on Python, C# and Unity
+🔭 I’m currently working on Python, C# and Unity
 <!--
 **Cagildsbdk/Cagildsbdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
