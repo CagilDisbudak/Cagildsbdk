@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 🔭 I’m currently working on Python, C# and Unity
+
+[![Linkdin Badge](https://img.shields.io/badge/-Linkdin-C13584?style=flat-quare&labelColor=C13584&logo=Linkdin&logoColor=white&link=link)]([link](https://www.linkedin.com/in/%C3%A7a%C4%9F%C4%B1l-di%C5%9Fbudak-75169a219/))
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=Cagildsbdk&show_icons=true&theme=gradient) 
+
 <!--
 **Cagildsbdk/Cagildsbdk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
